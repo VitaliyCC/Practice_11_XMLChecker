@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE group SYSTEM "group.dtd">
+<group>
+    <student lastname="Savostian" groupnumber="Cb91" firstname="Vitaliy">
+        <subject title="DataBase" mark="5"></subject>
+        <subject title="Network" mark="4"></subject>
+        <subject title="English" mark="3"></subject>
+        <average>4</average>
+    </student>
+    <student lastname="Berest" groupnumber="Cb90" firstname="Oleg">
+        <subject title="DataBase" mark="4"></subject>
+        <subject title="Network" mark="5"></subject>
+        <subject title="English" mark="5"></subject>
+        <average>0</average>
+    </student>
+    <student lastname="Bezpalchiy" groupnumber="Cb91" firstname="Ivan">
+        <subject title="DataBase" mark="3"></subject>
+        <subject title="Network" mark="2"></subject>
+        <subject title="English" mark="4"></subject>
+        <average>0</average>
+    </student>
+    <student lastname="Ivanov" groupnumber="Cb91" firstname="Dmitriy">
+        <subject title="DataBase" mark="5"></subject>
+        <subject title="Network" mark="4"></subject>
+        <subject title="English" mark="3"></subject>
+        <average>0</average>
+    </student>
+</group>
